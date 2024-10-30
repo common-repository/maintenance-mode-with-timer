@@ -1,0 +1,7 @@
+.mtm-clearfix:before, .mtm-clearfix:after{content: "";display: table;}
+.mtm-clearfix::after{clear: both;}
+.mtm-imgs-preview{max-width: 150px;}
+.mtm-imgs-preview img{ padding: 5px; margin: 5px 0; max-width: 150px; border: 1px solid #ccc;}
+.ui-slider-horizontal{width:70%;}
+.mtm-right{float:right;}
+.mtm-settings .mtm-resett-sett-btn{margin: 0 0 0 5px;}
